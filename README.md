@@ -19,6 +19,17 @@ API REST desarrollada con Spring Boot para la gestión básica de una tienda dep
 * CRUD de vendedores
 * CRUD de ventas
 
+## Endpoints principales
+
+```text
+/productos
+/categorias
+/clientes
+/vendedores
+/ventas
+/detalle-ventas
+```
+
 ## Ejecución
 
 ```bash id="jlwm91"
